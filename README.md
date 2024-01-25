@@ -1,4 +1,4 @@
-       ![MELODIA MOOD](https://res.cloudinary.com/duichjrgs/image/upload/v1706216380/melodimood/LOGO/logo-mood_vitugj.png)
+![MELODIA MOOD](https://res.cloudinary.com/duichjrgs/image/upload/v1706216380/melodimood/LOGO/logo-mood_vitugj.png)
 
 
 
