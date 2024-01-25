@@ -1,3 +1,9 @@
+       ![MELODIA MOOD](https://res.cloudinary.com/duichjrgs/image/upload/v1706216380/melodimood/LOGO/logo-mood_vitugj.png)
+
+
+
+
+
 # CAUSA RAÍZ DEL PROBLEMAS Y NECESIDADES IDENTIFICADAS.
 la creación de un aplicativo de música que trabaja la parte emocional.
 
